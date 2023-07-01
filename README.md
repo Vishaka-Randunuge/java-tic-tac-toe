@@ -16,4 +16,4 @@ made with java
 
   
 <h3>game won by "X"</h3>
-<img src="https://github.com/Vishaka-Randunuge/java-tic-tac-toe/blob/main/javas.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/Vishaka-Randunuge/java-tic-tac-toe/blob/main/java3.png" alt="Alt text" title="Optional title">
